@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeltaZen16
-- 👀 I’m interested in game dev shit
-- 🌱 I’m currently learning GDScript and Java and other cool shit
-- 💞️ I’m looking to collaborate on Godot shit cuz Godot is cool shit
+- 👀 I’m interested in game dev stuff
+- 🌱 I’m currently learning GDScript and Java and other cool stuff
+- 💞️ I’m looking to collaborate on Godot stuff cuz Godot is cool
 - 📫 How to reach me, via carrier pigeon (@themicrophone on discord)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm stupid please help
