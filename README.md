@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeltaZen16
+- 👋 Hi, I’m @DeltaZen16 , Zen for short
 - 👀 I’m interested in game dev stuff
 - 🌱 I’m currently learning GDScript and Java and other cool stuff
 - 💞️ I’m looking to collaborate on Godot stuff cuz Godot is cool
